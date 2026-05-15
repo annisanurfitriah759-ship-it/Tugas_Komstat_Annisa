@@ -6,3 +6,4 @@ print(paste("Rata-rata kopi terjual per hari:", rata_penjualan))
 # 3. Mencari nilai penjualan tertinggi
 kopi_max <- max(kopi_terjual)
 print(paste("Penjualan tertinggi minggu ini:", kopi_max))
+#Ini adalah syntax tambahan langsung dari web GitHub
